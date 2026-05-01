@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy-900: #0A1628;
+  --navy-800: #0D1F3C;
+  --navy-700: #112850;
+  --navy-600: #1A3A6B;
+  --blue-600: #1E6FD9;
+  --blue-500: #2E7FE8;
+  --gold-500: #F59E0B;
+  --gold-400: #FBBF24;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
