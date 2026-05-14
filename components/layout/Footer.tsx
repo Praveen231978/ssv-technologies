@@ -111,14 +111,14 @@ export function Footer() {
             </h3>
             <address className="not-italic space-y-3">
               <p className="text-sm text-slate-400 font-medium">
-                Surya Vedangi — CEO
+                Ambika Vedangi — CEO
               </p>
               <a
-                href="tel:+919100828982"
+                href="tel:+9989478181"
                 className="flex items-center gap-2 text-sm text-slate-400 hover:text-gold-400 transition-colors duration-200"
               >
                 <Phone className="w-4 h-4 flex-shrink-0" aria-hidden="true" />
-                +91 91008 28982
+                +91 99894 78181
               </a>
               <a
                 href="mailto:ambika.v@ssv-tech.com"
@@ -132,7 +132,7 @@ export function Footer() {
                 className="flex items-center gap-2 text-sm text-slate-400 hover:text-gold-400 transition-colors duration-200"
               >
                 <Mail className="w-4 h-4 flex-shrink-0" aria-hidden="true" />
-                nag.v@ssv-tech.com
+                hr@ssv-tech.com
               </a>
             </address>
           </div>
