@@ -89,8 +89,8 @@ export function ApplicationForm() {
               ambika.v@ssv-tech.com
             </a>{' '}
             or{' '}
-            <a href="tel:+919100828982" className="underline font-medium">
-              +91 91008 28982
+            <a href="tel:+919989478181" className="underline font-medium">
+              +91 9989478181
             </a>
             .
           </span>

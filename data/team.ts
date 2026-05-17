@@ -9,7 +9,7 @@
 
 export const teamMembers: TeamMember[] = [
   {
-    id: 'surya-vedangi',
+    id: 'Ambika-vedangi',
     name: 'Ambika Vedangi',
     title: 'Chief Executive Officer',
     bio: 'Ambika Vedangi is the founder and CEO of SSV Technologies Pvt. Ltd., bringing over a decade of experience in IT staffing, digital transformation, and enterprise technology consulting. With a deep understanding of both the US and Indian technology markets, Ambika has built SSV Technologies into a trusted partner for companies and candidates across the globe. His vision of combining human expertise with Agentic AI drives the company\'s innovative approach to digital marketing and talent placement.',
