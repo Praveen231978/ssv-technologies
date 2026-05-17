@@ -10,7 +10,7 @@ export function ContactInfo() {
           <p className="text-slate-700 font-medium">Surya Vedangi — CEO, SSV Technologies</p>
 
           <a
-            href="tel:+919100828982"
+            href="tel:+919989478181"
             className="flex items-center gap-3 text-slate-600 hover:text-blue-600 transition-colors group"
             aria-label="Call SSV Technologies at +91 91008 28982"
           >

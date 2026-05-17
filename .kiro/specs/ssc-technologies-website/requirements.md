@@ -142,7 +142,7 @@ SSV Technologies Pvt. Ltd. is an IT services and staffing company with offices i
 5. IF the form submission fails due to a network or server error, THEN THE Website SHALL display an error message instructing the Visitor to try again or contact via phone/email directly.
 6. THE Website SHALL display an embedded map showing the Hyderabad office location on the Contact Us page.
 7. THE Website SHALL display social media profile links (LinkedIn, Twitter/X, Facebook, Instagram) on the Contact Us page.
-8. THE Website SHALL display the following primary contact details on the Contact Us page: CEO name "Surya Vedangi", phone number "+91 91008 28982", and email addresses "ambika.v@ssv-tech.com" and "nag.v@ssv-tech.com".
+8. THE Website SHALL display the following primary contact details on the Contact Us page: CEO name "Ambika Vedangi", phone number "+91 91008 28982", and email addresses "ambika.v@ssv-tech.com" and "nag.v@ssv-tech.com".
 9. THE Website SHALL display the CEO's name and phone number as a direct-contact entry distinct from the general inquiry Contact_Form.
 
 ---

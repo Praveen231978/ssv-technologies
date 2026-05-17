@@ -383,7 +383,7 @@ Build a production-ready Next.js 14 (App Router) + TypeScript + Tailwind CSS + F
 - Each task references specific requirements for traceability
 - Checkpoints (tasks 5, 15, 18) ensure incremental validation before proceeding
 - Property tests (task 16) validate the 11 correctness properties defined in the design document
-- Contact details to hardcode: CEO Surya Vedangi, phone +91 91008 28982, emails ambika.v@ssv-tech.com and nag.v@ssv-tech.com
+- Contact details to hardcode: CEO Ambika Vedangi, phone +91 91008 28982, emails ambika.v@ssv-tech.com and nag.v@ssv-tech.com
 - All animations must complete within 400ms (except the decorative stats counter at 2s)
 - The `fast-check` library is used for all property-based tests
 - The `vitest` + React Testing Library stack is used for unit tests
