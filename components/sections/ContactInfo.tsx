@@ -7,7 +7,7 @@ export function ContactInfo() {
       <div>
         <h3 className="text-lg font-semibold text-navy-900 mb-4">Direct Contact</h3>
         <div className="space-y-3">
-          <p className="text-slate-700 font-medium">Surya Vedangi — CEO, SSV Technologies</p>
+          <p className="text-slate-700 font-medium">Ambika Vedangi — CEO, SSV Technologies</p>
 
           <a
             href="tel:+919989478181"

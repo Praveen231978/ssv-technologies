@@ -259,7 +259,7 @@ Build a production-ready Next.js 14 (App Router) + TypeScript + Tailwind CSS + F
 
 - [x] 12. Implement Contact Us page
   - [x] 12.1 Create `components/sections/ContactInfo.tsx`
-    - Display CEO direct contact: name "Surya Vedangi", phone "+91 91008 28982", emails "ambika.v@ssv-tech.com" and "nag.v@ssv-tech.com"
+    - Display CEO direct contact: name "Ambika Vedangi", phone "+91 99894 78181", emails "ambika.v@ssv-tech.com" and "nag.v@ssv-tech.com"
     - Display office addresses for Hyderabad and US locations
     - Display social media profile links: LinkedIn, Twitter/X, Facebook, Instagram
     - _Requirements: 7.1, 7.7, 7.8, 7.9_
