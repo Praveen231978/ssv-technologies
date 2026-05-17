@@ -12,12 +12,12 @@ export function ContactInfo() {
           <a
             href="tel:+919989478181"
             className="flex items-center gap-3 text-slate-600 hover:text-blue-600 transition-colors group"
-            aria-label="Call SSV Technologies at +91 91008 28982"
+            aria-label="Call SSV Technologies at +91 99894 78181"
           >
             <span className="inline-flex items-center justify-center w-9 h-9 rounded-full bg-blue-50 text-blue-600 group-hover:bg-blue-600 group-hover:text-white transition-colors flex-shrink-0">
               <Phone className="w-4 h-4" aria-hidden="true" />
             </span>
-            <span>+91 91008 28982</span>
+            <span>+91 99894 78181</span>
           </a>
 
           <a
